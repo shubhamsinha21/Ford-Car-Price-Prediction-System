@@ -4,3 +4,4 @@ seaborn
 matplotlib
 notebook
 scikit-learn
+streamlit
