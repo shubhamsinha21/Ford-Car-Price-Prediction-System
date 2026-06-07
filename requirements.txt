@@ -5,3 +5,4 @@ matplotlib
 notebook
 scikit-learn
 streamlit
+gdown
