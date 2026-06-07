@@ -231,7 +231,7 @@ streamlit run app.py
 
 **Shubham Sinha**
 
-Machine Learning & AI Enthusiast
+AI Engineer
 
 ---
 
