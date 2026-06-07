@@ -12,7 +12,7 @@ MODEL_FILE = "ford_price_model.pkl"
 FILE_ID = "YOUR_GOOGLE_DRIVE_FILE_ID"
 
 if not os.path.exists(MODEL_FILE):
-    url = f"https://drive.google.com/uc?id={1zhmJNu0LH-pZXP2ScOCCSb1wLHlm_dZC}"
+    url = f"https://drive.google.com/uc?id=1zhmJNu0LH-pZXP2ScOCCSb1wLHlm_dZC"
     gdown.download(url, MODEL_FILE, quiet=False)
 
 model = pickle.load(open(MODEL_FILE, "rb"))
