@@ -1,3 +1,7 @@
 *.pkl
-*.pkl
+**pycache**/
 .ipynb_checkpoints/
+.DS_Store
+venv/
+.env
+
